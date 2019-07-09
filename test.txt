@@ -2,3 +2,4 @@ This is test.
 Createing a new branch.
 Creating a new branch is quick and simple.
 Actually I am creating a new branch now.
+Solving the bug.
