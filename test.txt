@@ -3,4 +3,4 @@ Createing a new branch.
 Creating a new branch is quick and simple.
 Actually I am creating a new branch now.
 I attempt to use "stash" the second time.
-Test.
+Test success.
