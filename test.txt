@@ -1,5 +1,6 @@
 Createing a new branch.
 Creating a new branch is quick and simple.
 Actually I am creating a new branch now.
+Add this line by f2.
 I attempt to use "stash" the second time.
-Test success.
+Test success.Add this sentence by f2.
