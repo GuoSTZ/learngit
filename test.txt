@@ -4,3 +4,5 @@ Actually I am creating a new branch now.
 Add this line by f2.
 I attempt to use "stash" the second time.
 Test success.Add this sentence by f2.
+
+git cherry-pick
